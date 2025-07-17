@@ -42,7 +42,11 @@
 <tr><td><center><a href = "https://github.com/"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="width:50%;height:50%"></img></a></center></td>
 <td><center><a href = "http://localhost:8080/"> <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/tomcat.jpg" style="width:50%;height:50%"></img></a></center></td>
 <td><center><a href = "http://localhost:8090/"> <img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/jenkins_image.png" style="width:50%;height:50%"></img></a></center></td>
-</tr></table>
+</tr>
+<tr><td>
+<h2 style="color:green">Learn Devops and become Devops Engineer</h2>
+</td></tr>
+</table>
   
 <div class="footer-marquee">
     <marquee scrollamount="15">
