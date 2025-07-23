@@ -44,7 +44,7 @@
 <td><center><a href = "http://localhost:8090/"> <img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/jenkins_image.png" style="width:50%;height:50%"></img></a></center></td>
 </tr>
 <tr><td>
-<h2 style="color:green; font-size: 48px;">Learn Devops and become Devops Engineer</h2>
+<h3 style="color:green; font-size: 48px; text-align: center;">Learn Devops and become Devops Engineer</h3>
 </td></tr>
 </table>
   
