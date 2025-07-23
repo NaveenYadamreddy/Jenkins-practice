@@ -43,9 +43,9 @@
 <td><center><a href = "http://localhost:8080/"> <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/tomcat.jpg" style="width:50%;height:50%"></img></a></center></td>
 <td><center><a href = "http://localhost:8090/"> <img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/jenkins_image.png" style="width:50%;height:50%"></img></a></center></td>
 </tr>
-<tr><td>
+<tr><td><center>
 <h3 style="color:green; font-size: 48px; text-align: center;">Learn Devops and become Devops Engineer</h3>
-</td></tr>
+</center></td></tr>
 </table>
   
 <div class="footer-marquee">
